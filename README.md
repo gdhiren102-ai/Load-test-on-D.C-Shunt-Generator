@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name:ajay.M
-### Reg no:212224080003
+### Name:dhiren.g
+### Reg no:2122240800013
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
